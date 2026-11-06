@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# personal files, not part of the project
+forever-duo-guide.html
+*.lua.bak

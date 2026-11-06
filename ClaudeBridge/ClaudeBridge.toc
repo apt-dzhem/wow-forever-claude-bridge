@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: ClaudeBridge
+## Notes: Snapshots your character (quests, position, talents, gear, addons) into SavedVariables so Claude can read it. /cb for status, /cb sync to save now.
+## Author: apt-dzhem
+## Version: 0.1.1
+## SavedVariables: ClaudeBridgeDB
+
+ClaudeBridge.lua
